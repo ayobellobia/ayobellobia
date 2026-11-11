@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi, I'm Ayodeji Adisa 👋
 
-<!--
-**ayobellobia/ayobellobia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Excel & Power BI Specialist | Data Entry & Admin Support — Ottawa, ON**
 
-Here are some ideas to get you started:
+Business Intelligence Analysis graduate (Willis College, 2026) with 6+ years in technical support, customer support and administration. I turn messy data into clean spreadsheets, clear dashboards and reliable reports.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I do
+
+- 🧹 **Data cleaning** — duplicates, missing values, wrong totals, messy formats
+- 📊 **Excel & Power BI** — dashboards, reports, pivot summaries
+- ⌨️ **Data entry & admin** — accurate entry, records, minutes, proofreading
+
+## Featured work
+
+- [📊 Portfolio](https://github.com/ayobellobia/Portfolio) — project samples and dashboards
+- [📓 BIA-AI-Assignments](https://github.com/ayobellobia/BIA-AI-Assignments) — data cleaning, machine learning and AI coursework (Python, pandas, scikit-learn)
+
+## Tools
+
+Excel · Power BI · SQL · Tableau · Python (pandas, NumPy, scikit-learn) · Word · Outlook · Teams
+
+## Find me
+
+- LinkedIn: https://www.linkedin.com/in/ayodeji-adisa-8a78a411b/
+- Upwork and Fiverr profiles coming soon
